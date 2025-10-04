@@ -1,2 +1,1 @@
- 
-Estou no staging dentro do GitHub
+hello, world.
